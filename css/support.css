@@ -1,0 +1,33 @@
+body{
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+}
+.navbar{
+    background-color: black;
+}
+#navbarNav{
+    margin-left: 60%;
+}
+.nav-link{
+    margin-right: 10px;
+}
+.card-header{
+    background-color: green;
+    color: white;
+}
+.section{
+    color: black;
+    margin-bottom: 2%;
+    padding: 1%;
+    background: whitesmoke;
+}
+.row{
+    padding: 4%;
+}
+#float-end{
+    background-color: #343a40 !important;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    margin-bottom: 0px;
+}

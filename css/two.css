@@ -1,0 +1,59 @@
+body{
+    overflow-y: scroll;
+    background: black;
+    color: white;
+}
+#navbarNav{
+    margin-left: 70%;
+}
+.active{
+    font-weight: bolder;
+}
+.navbar{
+    background: black;
+    color: white;
+    padding: 10px;
+}
+.nav-link{
+    float: right !important;
+    display: inline !important;
+    padding: 0 10px 0 10px;
+    cursor: pointer;
+}
+.img5{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.row h1{
+    text-align: center;
+}
+.content{
+    margin: 10%;
+}
+.img-section{
+    margin: 5% 0 1% 0;
+}
+footer{
+    text-align: center;
+    padding-top: 5%;
+}
+.card{
+    border: none;
+    background:none;
+}
+.images{
+    width: 75%;
+}
+.card :hover{
+    transition: transform 0.5 ease;
+}
+.card :hover{
+    transform: scale(1.5);
+}
+.row{
+    padding-left: 10%;
+}
+/* img{
+    m
+} */

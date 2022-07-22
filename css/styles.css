@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+    background-color: black;
+    background-size: cover;
+}
+img{
+    border: 2px solid black;
+    border-radius: 50%;
+    transition: transform .7s ease-in-out;
+    width: 200px;
+    height: 200px;
+}
+img:hover {
+transform: rotate(360deg);
+}
+.img1{
+    display: flex;
+    justify-content: center;
+}
+.img2{
+    margin-left: 30%;
+}
+.img3{
+    float: right;
+    margin-right: 30%;
+}
+.container{
+    text-align: center;
+    color: white;
+    margin-top: 10%;
+}
+.container{
+    font-family: 'Dancing Script', cursive;
+}

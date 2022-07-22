@@ -1,0 +1,40 @@
+body{
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+.navbar{
+    background-color: black !important;
+}
+.section
+{
+    padding: 30px;
+}
+.row{
+    overflow-x: hidden;
+}
+.heading{
+    margin: 10px;
+}
+.heading-gallery{
+    text-align: center;
+    margin: 50px;
+}
+img{
+    margin: 1%;
+}
+.info{
+    margin: 35px;
+}
+.card{
+    border: none;
+}
+#navbarNav{
+    margin-left: 70%;
+}
+.navbar-brand{
+    margin-left: 7%;
+}
+footer{
+    padding: 3%;
+    text-align: center;
+}
